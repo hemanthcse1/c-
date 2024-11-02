@@ -1,3 +1,9 @@
 # ninja log v6
-1	339	1730464649984425995	CMakeFiles/cpp_workspace.dir/main.cpp.o	6bd366bd3bf2171f
-341	381	1730464650325172465	cpp_workspace	d19bb84f3eb393d8
+6	343	1730532129179187937	CMakeFiles/cpp_workspace.dir/main.cpp.o	6bd366bd3bf2171f
+344	376	1730532129516743919	cpp_workspace	e3eb71cebd1da3a3
+17	639	1730466853463612688	CMakeFiles/cpp_workspace.dir/constructors.cpp.o	556f9434cc46504
+7	150	1730532119894221207	CMakeFiles/cpp_workspace.dir/Food.cpp.o	a1b98939aa6b1b0f
+6	509	1730545881174162884	CMakeFiles/cpp_workspace.dir/main.cpp.o	6bd366bd3bf2171f
+7	534	1730545881175135299	CMakeFiles/cpp_workspace.dir/IncrementCounter.cpp.o	a99f55a7d22f0431
+7	335	1730545896942580123	CMakeFiles/cpp_workspace.dir/main.cpp.o	6bd366bd3bf2171f
+335	371	1730545897270915533	cpp_workspace	dbc12c745097e300
